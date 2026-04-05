@@ -26,7 +26,6 @@ Telco Customer Churn.csv
    Contract type
    Monthly charges
    Tenure
-
 ### Feature Engineering
 1. Encoded categorical variables
 2. Scaled numerical features
