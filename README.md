@@ -11,3 +11,33 @@ This project focuses on analyzing customer behavior and predicting whether a cus
 
 ## Dataset:
 Telco Customer Churn.csv
+
+## Project Workflow
+
+### Data Cleaning
+1. Handled missing values
+2. Converted data types
+3. Removed irrelevant columns
+
+### Exploratory Data Analysis (EDA)
+1. Analyzed churn distribution
+2. Studied relationships between churn and features like:
+   ```
+   Contract type
+   Monthly charges
+   Tenure
+
+### Feature Engineering
+1. Encoded categorical variables
+2. Scaled numerical features
+
+### Model Building
+Implemented multiple machine learning models:
+1. Logistic Regression
+2. Decision Tree
+3. Random Forest
+
+### Model Evaluation
+1. Accuracy Score
+2. Confusion Matrix
+3. Precision, Recall, F1-score
