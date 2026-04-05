@@ -40,3 +40,12 @@ Implemented multiple machine learning models:
 1. Accuracy Score
 2. Confusion Matrix
 3. Precision, Recall, F1-score
+
+## Results
+`Logistic Regression` achieved the best performance
+Model accuracy: ~81.61%
+
+## Key Insights
+1. Customers with month-to-month contracts are more likely to churn
+2. Higher monthly charges increase churn probability
+3. Customers with low tenure are at higher risk
